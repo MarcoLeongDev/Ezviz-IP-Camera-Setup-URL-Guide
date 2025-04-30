@@ -1,4 +1,4 @@
-# Ezviz-IP-Camera-Setup-URL-Guide
+# Ezviz IP camera setup URL guide
 
 | MODELS | TYPE | PROTOCOL | URL |
 |--------|------|----------|-----|
