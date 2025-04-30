@@ -59,10 +59,16 @@
 
 ## Syntax
 ```
+rtsp://admin:(password)@(IP address)/h264
+```
+or
+```
 rtsp://admin:(password)@(IP address):554/h264
 ```
 
 Example:
+rtsp://admin:PASSWORD@192.168.123.31/h264
+or 
 rtsp://admin:PASSWORD@192.168.123.31:554/h264
 
 password are normally on the label of your device
