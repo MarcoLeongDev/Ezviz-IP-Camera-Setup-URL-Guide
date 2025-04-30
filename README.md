@@ -62,6 +62,7 @@
 
 ## Example
 ```rtsp://admin:PASSWORD@192.168.123.31:554/h264```
+
 password are normally on the label of your device
 
 * sourced from https://www.ispyconnect.com/camera/ezviz
